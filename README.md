@@ -15,8 +15,40 @@ La materia contribuye a la formación analítica, crítica, responsable y propos
 6.	Introducir cambios radicales que impliquen una potenciación profunda en la competitividad de la empresa.
 7.	Enfrentarse con mayores posibilidades de éxito a la solución de los problemas propios de la empresa, en el ámbito de la Dirección de Operaciones.
 
-## Estructura del Curso
+# Estructura del Curso
 
 ### Horas de clase
 
 Esta clase será los Martes y Jueves  de 16:00 a 18:00 Hrs.
+
+# Temario
+
+## Unidad 1 Fundamentos de bases de datos No Relacionales
+1.1- Panorama y características generales. 
+1.2.- Ejemplos de bases de datos NoSQL.
+1.3.- Lenguajes asociados.
+1.4.- Arquitecturas principales de almacenamiento. 
+1.5.- Modelos de las bases de datos NoSQL
+1.6.- Operaciones de creación y actualización de registros.
+
+## Unidad 2 Bases de Datos NoSQL 
+2.1.- ¿Cómo escalan y cómo aseguran disponibilidad los sistemas manejadores de bases de datos NoSQL?
+2.2.- Bases de datos NoSQL orientadas a Documentos 
+2.3.- Bases de datos NoSQL de clave-valor 
+2.4.- Bases de datos NoSQL orientadas a Grafos.
+2.5.- Bases de datos NoSQL orientadas a Columnas. 
+
+## Unidad 3 Administración de Bases de Datos NoSQL
+3.1.- Creación de las Bases de Datos NoSQL. 
+3.2.- Manipulación de las Bases de Datos NoSQL 
+3.3.- Integración de las Bases de Datos NoSQL con las aplicaciones. 
+3.4.- Indexación y agregación de pipeline
+
+## Unidad 4 Bases de Datos en la Nube
+4.1.- Arquitecturas para el procesamiento de datos
+4.2.- Servicios para extraer información y sus aplicaciones
+4.3.- Manipular datos en la nube
+4.4.- Orquestación y automatización de los datos
+
+
+
